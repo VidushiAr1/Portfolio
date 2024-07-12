@@ -59,10 +59,10 @@ export default function Info() {
         animate={mainControls}
       >
         <p>
-        Hi there! I'm Akhil Verma, a passionate front-end developer dedicated to crafting user-centric digital experiences. With expertise in HTML, CSS, JavaScript, and React, I specialize in building responsive websites and dynamic web applications.
+        Hi there! I'm Vidushi Arora, a passionate software developer dedicated to solving problems and optimizing performance through data structures and algorithms in Java.
         </p>
         <p>
-        In my portfolio, you'll find a showcase of projects where I blend design and code to create intuitive interfaces and engaging interactions. I thrive in collaborative environments and love turning ideas into reality.
+        In my portfolio, you’ll find a showcase of projects where I apply code and front-end skills like HTML and CSS. I thrive in problem-solving environments.
         </p>
         <p>
         Outside of coding, I enjoy exploring the intersection of technology and art, discovering new art styles, and creating new art <a target="_blank" href="https://www.instagram.com/weebly._art/">works</a>. 

@@ -3,7 +3,7 @@ import { motion, useAnimation, useInView } from 'framer-motion';
 
 import "./skill.scss";
 
-const logos = ['html', 'css', 'javaScript', 'typeScript', 'react', 'next', 'bootStrap', 'tailwind', 'sass'];
+const logos = ['html', 'css', 'bootStrap', 'java'];
 
 const container = {
   hidden: { opacity: 1, scale: 0 },

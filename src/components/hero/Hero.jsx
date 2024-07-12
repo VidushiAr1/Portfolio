@@ -43,8 +43,8 @@ const slideVariants = {
 
 const downloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/Resume_Akhilverma_Mar28.pdf'; 
-    link.download = 'Resume_Akhilverma_Mar28.pdf';
+    link.href = '/151_vidushi_arora.pdf'; 
+    link.download = '151_vidushi_arora.pdf';
     link.click();
   };
 
@@ -58,7 +58,7 @@ export default function Hero() {
                 initial="initial"
                 animate="animate">
                 <div className="textBox">
-                <motion.h1 variants={textVariants}>Hello! I'm Akhil Verma</motion.h1>
+                <motion.h1 variants={textVariants}>Hello! I'm Vidushi Arora </motion.h1>
                 <motion.h2 variants={textVariants}>Front-end Developer</motion.h2>
                 <motion.div variants={textVariants} className="buttons">
                     <motion.button onClick={downloadCV} variants={textVariants}>Download CV</motion.button>
@@ -71,9 +71,7 @@ export default function Hero() {
         <motion.div className="slidingTextContainer" variants={slideVariants} initial="initial" animate="animate">
             Front-end developer
         </motion.div>
-        <div className="imageContainer">
-            <img src="/me.png" alt="" />
-        </div>
+
     </div>
   )
 }

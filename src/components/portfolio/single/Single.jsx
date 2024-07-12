@@ -31,7 +31,7 @@ const Single = ({item}) => {
                 </div>
                 <div className="btnContainer">
                 <button><a href={item?.codeLink}> <i style={{fontSize: "17px"}} className="fa">&#xf09b;</i> code</a></button>
-                <button><a href={item?.projectLink} target="_blank">demo</a></button>
+                {item.projectLink !== '' && <button><a href={item?.projectLink} target="_blank">demo</a></button>}
                 </div>
             </motion.div>
             </div>
