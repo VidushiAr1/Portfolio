@@ -65,10 +65,7 @@ export default function Info() {
         In my portfolio, you’ll find a showcase of projects where I apply code and front-end skills like HTML and CSS. I thrive in problem-solving environments.
         </p>
         <p>
-        Outside of coding, I enjoy exploring the intersection of technology and art, discovering new art styles, and creating new art <a target="_blank" href="https://www.instagram.com/weebly._art/">works</a>. 
-        </p>
-        <p>
-        I'm also passionate about open-source projects, Let's connect and create something amazing together!
+        Let's connect and create something amazing together!
         </p>
       </motion.div>
     </div>
